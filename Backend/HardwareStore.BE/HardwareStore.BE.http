@@ -1,0 +1,10 @@
+@HardwareStore.BE_HostAddress = https://localhost:7043
+
+GET {{HardwareStore.BE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{HardwareStore.BE_HostAddress}}/weatherforecast
+
+###

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jVUaHjO8E8RKHf2NlhJZS2dEV4dk18/XOKwf6dnZ2hc=",
+  "Source": "HardwareStore.BE",
+  "BasePath": "_content/HardwareStore.BE",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
